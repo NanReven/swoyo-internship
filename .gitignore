@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+*.toml
+.env
+.idea/
+.vscode/
+.venv/
